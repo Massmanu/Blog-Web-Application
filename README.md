@@ -74,7 +74,7 @@ npm run dev
 # Frontend
 cd ../client
 npm run dev
-
+```
 
 🔑 API Endpoints Summary
 🔐 Authentication
@@ -138,3 +138,5 @@ Comments and Profile
 
 🙌 Author
 Manoj Mariyappa
+
+
